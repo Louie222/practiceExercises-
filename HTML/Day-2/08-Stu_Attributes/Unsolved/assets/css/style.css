@@ -1,0 +1,42 @@
+.section {
+  background-color: lemonchiffon;
+}
+
+.section1 {
+  background-color: white;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: black;
+}
+
+#email {
+  background-color: goldenrod;
+}
+
+#github {
+  background-color: lightsteelblue
+}
+
+#portfolio {
+  backgblack-color: darkorange;
+}
+
+#option-1 {
+  color: black;
+  background-color: lightsalmon;
+}
+
+#option-2 {
+  color: black;
+  background-color: lightskyblue;
+}
+
+#option-3 {
+  color: black;
+  background-color: lightpink;
+}
