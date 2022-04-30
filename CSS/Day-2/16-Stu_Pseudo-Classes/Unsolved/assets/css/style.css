@@ -22,6 +22,10 @@ h2 {
   font-size: 250%;
 }
 
+h3 {
+  font-size: 150%;
+}
+
 nav ul {
   display: flex;
   justify-content: space-between;
@@ -60,6 +64,7 @@ article p {
 }
 
 article ul {
+  display: none;
   margin-left: 5%;
   font-size: 110%;
   list-style: circle;
@@ -85,6 +90,17 @@ footer {
   padding: 2%;
   background-color: #13293d;
   color: #fff;
+}
+
+.resources:hover + .hide {
+  font-size: larger;
+  
+}
+
+a {
+  text-decoration: none;
+  
+  
 }
 
 /* TODO: Add styles to display and hide the resource links */
