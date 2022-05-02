@@ -23,6 +23,7 @@ h2 {
 }
 
 h3 {
+  
   font-size: 150%;
 }
 
@@ -64,7 +65,7 @@ article p {
 }
 
 article ul {
-  display: none;
+  
   margin-left: 5%;
   font-size: 110%;
   list-style: circle;
@@ -92,16 +93,18 @@ footer {
   color: #fff;
 }
 
-.resources:hover + .hide {
+.resources:hover a {
+  display: block;
   font-size: larger;
   
 }
 
-a {
+a  {
+  display: none;
   text-decoration: none;
   
-  
 }
+
 
 /* TODO: Add styles to display and hide the resource links */
 
