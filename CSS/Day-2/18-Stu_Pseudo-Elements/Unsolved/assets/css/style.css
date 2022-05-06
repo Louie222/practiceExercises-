@@ -59,6 +59,11 @@ article p {
   font-size: 110%;
 }
 
+.tooltip .tooltiptext {
+  visibility: hidden;
+  color: #d8a47f;
+}
+
 /* TODO: Style the keyword - underline, black text, grab cursor */
 
 /* TODO: Position tooltip above the keyword, same color as header and nav links, no border-radius, smaller font size */
