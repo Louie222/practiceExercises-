@@ -68,6 +68,13 @@ footer {
   color: #fff;
 }
 
+a[href="./assets/css/reset.css"]::after, [href="https://necolas.github.io/normalize.css/8.0.1/normalize.css"]::after, [href="./assets/css/style.css"]::after {
+
+  content: "📝";
+  
+} 
+                    
+
 /* TODO: Add code here to select all <a> elements that link to a file with a `.css` extension */
 
 @media screen and (max-width: 768px) {
