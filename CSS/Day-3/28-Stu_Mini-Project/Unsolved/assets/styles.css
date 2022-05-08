@@ -1,7 +1,15 @@
 h1 {
    text-align: center;
+   color: blueviolet;
+   font-size: 50px;
+
+   
 }
 
 p {
    text-align: center;
+}
+
+.box-1 {
+   flex: 1;
 }
