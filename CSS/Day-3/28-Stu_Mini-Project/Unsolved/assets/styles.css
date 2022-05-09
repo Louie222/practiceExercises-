@@ -10,6 +10,57 @@ p {
    text-align: center;
 }
 
+.container-1 div {
+   border: 1px solid;
+   padding: 10px;
+
+}
+
+.container-1 {
+   display: flex;
+   justify-content: space-around;
+}
+
 .box-1 {
-   flex: 1;
+   width: 30%;
+}
+
+.box-2 {
+   width: 30%;
+   
+}
+
+.box-3 {
+   width: 30%;
+    
+}
+
+.container-2 div {
+   border: 1px solid;
+   padding: 10px;
+
+}
+
+.container-2 {
+   display: flex;
+   justify-content: space-around;
+   
+}
+
+.box-4 {
+   width: 30%;
+}
+
+.box-5 {
+   width: 30%;
+}
+
+.box-6 {
+   width: 30%;
+}
+
+h3 {
+   border: 2px solid;
+   padding: 10px;
+   text-align: center;
 }
