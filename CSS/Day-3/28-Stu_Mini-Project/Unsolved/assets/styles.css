@@ -11,6 +11,7 @@ p {
 }
 
 .container-1 div {
+  
    border: 1px dotted;
    padding: 10px;
 
@@ -22,20 +23,24 @@ p {
 }
 
 .box-1 {
+   
    width: 30%;
 }
 
 .box-2 {
+   
    width: 30%;
    
 }
 
 .box-3 {
+   
    width: 30%;
     
 }
 
 .container-2 div {
+   
    border: 1px dotted;
    padding: 10px;
 
@@ -61,8 +66,21 @@ p {
    width: 30%;
 }
 
-h3 {
-   display: block;
+.container-1 h3 {
+   position: relative;
+   top: -150px;
+   margin: 20%;
+   margin-left: 30%;
+   border: 2px solid;
+   width: 40%;
+   padding: 10px;
+   text-align: center;
+   
+}
+
+.container-2 h3 {
+   position: relative;
+   top: -150px;
    margin: 20%;
    margin-left: 30%;
    border: 2px solid;
