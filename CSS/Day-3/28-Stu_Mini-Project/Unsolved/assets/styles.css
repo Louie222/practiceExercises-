@@ -11,19 +11,22 @@ p {
 }
 
 .container-1 div {
-  
+   position: relative;
+   top: 40px;
    border: 1px dotted;
    padding: 10px;
-
+   
 }
 
 .container-1 {
+  
+   position: relative;
    display: flex;
    justify-content: space-around;
 }
 
 .box-1 {
-   
+  
    width: 30%;
 }
 
@@ -40,7 +43,8 @@ p {
 }
 
 .container-2 div {
-   
+   position: relative;
+   top: 65px;
    border: 1px dotted;
    padding: 10px;
 
@@ -55,7 +59,6 @@ p {
 .box-4 {
    width: 30%;
 
-   
 }
 
 .box-5 {
