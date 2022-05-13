@@ -29,12 +29,12 @@ p {
 }
 
 .code {
-   position: absolute;
-   top: 170px;
+   position: inherit;
+   top: -90px;   
    
 }
 .code p {
-   position: relative;
+   position: absolute;
    top: -150px;
    margin: 20%;
    margin-left: 30%;
