@@ -7,7 +7,11 @@ h1 {
 }
 
 p {
-   text-align: center;
+   position: relative;
+   top: -250px;
+   text-align: center; 
+   
+   
 }
 
 .container-1 div {
@@ -91,4 +95,8 @@ p {
    padding: 10px;
    text-align: center;
    
+}
+
+h4 {
+   text-align: center;
 }
