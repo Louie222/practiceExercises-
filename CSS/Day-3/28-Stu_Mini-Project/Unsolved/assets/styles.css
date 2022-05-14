@@ -14,6 +14,8 @@ p {
    
 }
 
+/* need to add p class or something to target box 6 font size"*/
+
 p.description {
    font-weight: bold;
    font-size: 20px;
